@@ -6,3 +6,6 @@ DeveloperEmail: Captian@avengers.com
 
 DevloperName: Hulk
 DeveloperEmail: Hulk@avengers.com
+
+DevloperName: Thor
+DeveloperEmail: Thor@aveangers.com
