@@ -1,1 +1,1 @@
-This is devops class, we are learning devops
+This is devops class, we are learning devops and stash memeory
